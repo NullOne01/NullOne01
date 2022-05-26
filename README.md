@@ -13,4 +13,4 @@ I’m currently learning C/C++ and how game engines work.
 - Upwork: [Daniil Fedorov](https://www.upwork.com/freelancers/~01181ec3aeaf30aab2)
 - Email: adviventes@gmail.com
 - Habr (my blog if you know russian): [@nullone](https://habr.com/ru/users/nullone/)
-- My CV: [Daniil Fedorov](https://github.com/NullOne01/NullOne01/blob/master/Daniil_Fiodarau_CV.docx)
+- My CV: [Daniil Fedorov](https://github.com/NullOne01/NullOne01/blob/master/Daniil_Fedorov_CV.docx)
