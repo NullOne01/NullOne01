@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**NullOne01/NullOne01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Daniil, student interested in game development! 
 
-Here are some ideas to get you started:
+Have some experience coding using C/C++, C#, Python, Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Also have a few little games created using Unity, Unreal Engine 4.
+
+I’m currently learning C/C++ and how game engines work. 
+
+### My contants
+- Linkedin: [Daniil Fedorov](https://www.linkedin.com/in/daniil-fedorov-529749205/)
+- Upwork: [Daniil Fedorov](https://www.upwork.com/freelancers/~01181ec3aeaf30aab2)
+- Email: adviventes@gmail.com
+- Habr (my blog in russian): [@nullone](https://habr.com/ru/users/nullone/)
+- My CV: [Daniil Fedorov](https://github.com/NullOne01/NullOne01/blob/master/Daniil_Fiodarau_CV.docx)
