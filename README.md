@@ -8,7 +8,7 @@ Also have a few little games created using Unity, Unreal Engine 4.
 
 I’m currently learning C/C++ and how game engines work. 
 
-### My contants
+### My contacts
 - Linkedin: [Daniil Fedorov](https://www.linkedin.com/in/daniil-fedorov-529749205/)
 - Upwork: [Daniil Fedorov](https://www.upwork.com/freelancers/~01181ec3aeaf30aab2)
 - Email: adviventes@gmail.com
